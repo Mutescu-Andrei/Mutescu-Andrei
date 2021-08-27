@@ -6,6 +6,6 @@
 -🦉I'm looking to finish more projects in the upcoming year
 -😃Always willing to help
 
-You can contact me on [<img align="left" alt="andrei-mutescu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+You can contact me here [<img align="left" alt="andrei-mutescu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/andrei-mutescu-1516b7217/
