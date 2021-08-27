@@ -1,4 +1,4 @@
-### Greetings!I'm Andrei, a fellow coder 👨‍💻
+### Greetings! I'm Andrei, a fellow coder 👨‍💻
 
 ## I'm always eager to learn more to make great things!
 
