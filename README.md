@@ -14,5 +14,5 @@
 <br />
 
 ### Languages and Tools:
-Java ![4373217_java_logo_logos_icon](https://user-images.githubusercontent.com/63661281/131054190-3524063b-9902-41bc-a666-98973f61e1b6.png)
+Java ![4373217_java_logo_logos_icon (1)](https://user-images.githubusercontent.com/63661281/131054218-bf1fcac8-10fb-4e14-8062-3834726d58b6.png)
 
