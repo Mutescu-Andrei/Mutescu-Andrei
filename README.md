@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 [<img align="left" alt="C++" width="48px" src="https://user-images.githubusercontent.com/63661281/131055514-6a634bad-888d-44e9-9f04-40e85b0e79c8.png" />][C++]
-[<img align="left" alt="C#" width="48px" src="https://user-images.githubusercontent.com/63661281/131055064-c6a01814-bcdf-49f0-aa42-4583bfc58a81.png" />][C#]
+[<img align="left" alt="C#" width="48px" src="https://user-images.githubusercontent.com/63661281/131055610-e80a5d8d-ec7a-4bb9-aaab-941eaa3a9459.png" />][C#]
 [<img align="left" alt="Unity" width="48px" src="https://user-images.githubusercontent.com/63661281/131055270-c755cdac-08ab-4121-8604-b1bef825b281.png" />][Unity]
 [<img align="left" alt="Java" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][Git]
 [<img align="left" alt="Git" width="48px" src="https://user-images.githubusercontent.com/63661281/131055318-c86d52fc-ab47-4e56-8a62-3c29cac9c3a2.png" />][Java]
