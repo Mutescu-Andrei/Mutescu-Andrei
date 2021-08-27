@@ -26,16 +26,16 @@
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 
-[C++]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[C++]: https://en.wikipedia.org/wiki/C%2B%2B
 
-[Unity]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[Unity]: https://en.wikipedia.org/wiki/Unity_(game_engine)
 
-[C#]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 
 [Git]: https://en.wikipedia.org/wiki/Java_(programming_language)
 
-[Php]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[Php]: https://en.wikipedia.org/wiki/PHP
 
-[MongoDB]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[MongoDB]: https://en.wikipedia.org/wiki/MongoDB
 
-[MySQL]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[MySQL]: https://en.wikipedia.org/wiki/MySQL
