@@ -14,7 +14,8 @@
 <br />
 
 ### Languages and Tools:
-![4373217_java_logo_logos_icon (1)][Java]
+![Java](https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png)
+
 
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
