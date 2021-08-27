@@ -32,7 +32,7 @@
 
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 
-[Git]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[Git]: https://en.wikipedia.org/wiki/GitHub
 
 [Php]: https://en.wikipedia.org/wiki/PHP
 
