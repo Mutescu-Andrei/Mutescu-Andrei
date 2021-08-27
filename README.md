@@ -2,10 +2,9 @@
 
 ## I'm always eager to learn more to make great things!
 * 🌟I'm currently learning all the tips and tricks I can
-
 * 🦉I'm looking to finish more projects in the upcoming year
-
 * 😃Always willing to help
+
 <br />
 
 ### You can contact me here [<img align="left" alt="andrei-mutescu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -13,6 +12,7 @@
 [linkedin]: https://www.linkedin.com/in/andrei-mutescu-1516b7217/
 
 <br />
+
 ### Languages and Tools:
 [<img align="left" alt="C++" width="48px" src="https://user-images.githubusercontent.com/63661281/131055514-6a634bad-888d-44e9-9f04-40e85b0e79c8.png" />][C++]
 [<img align="left" alt="C#" width="48px" src="https://user-images.githubusercontent.com/63661281/131055610-e80a5d8d-ec7a-4bb9-aaab-941eaa3a9459.png" />][C#]
