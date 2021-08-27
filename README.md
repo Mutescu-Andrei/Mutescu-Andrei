@@ -14,14 +14,14 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="C++" width="48px" src="https://user-images.githubusercontent.com/63661281/131055123-b442696d-c99b-4501-b7c8-6f0bd1cb9307.png" />][C++]
+[<img align="left" alt="C++" width="48px" src="https://user-images.githubusercontent.com/63661281/131055514-6a634bad-888d-44e9-9f04-40e85b0e79c8.png" />][C++]
 [<img align="left" alt="C#" width="48px" src="https://user-images.githubusercontent.com/63661281/131055064-c6a01814-bcdf-49f0-aa42-4583bfc58a81.png" />][C#]
 [<img align="left" alt="Unity" width="48px" src="https://user-images.githubusercontent.com/63661281/131055270-c755cdac-08ab-4121-8604-b1bef825b281.png" />][Unity]
 [<img align="left" alt="Java" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][Git]
 [<img align="left" alt="Git" width="48px" src="https://user-images.githubusercontent.com/63661281/131055318-c86d52fc-ab47-4e56-8a62-3c29cac9c3a2.png" />][Java]
 [<img align="left" alt="Php" width="48px" src="https://user-images.githubusercontent.com/63661281/131055364-8c1a47d4-5f0b-4828-852d-8f02aed789cf.png" />][Php]
-[<img align="left" alt="MongoDB" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][MongoDB]
-[<img align="left" alt="MySQL" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][MySQL]
+[<img align="left" alt="MongoDB" width="48px" src="https://user-images.githubusercontent.com/63661281/131055414-a27e29a8-8cc3-4c01-a27b-fc7aacf82242.png" />][MongoDB]
+[<img align="left" alt="MySQL" width="48px" src="https://user-images.githubusercontent.com/63661281/131055455-871adb02-4d2d-4f88-abb7-78349a17cd5c.png" />][MySQL]
 
 
 [Java]: https://en.wikipedia.org/wiki/Java_(programming_language)
