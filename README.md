@@ -18,8 +18,8 @@
 [<img align="left" alt="C#" width="48px" src="https://user-images.githubusercontent.com/63661281/131055064-c6a01814-bcdf-49f0-aa42-4583bfc58a81.png" />][C#]
 [<img align="left" alt="Unity" width="48px" src="https://user-images.githubusercontent.com/63661281/131055270-c755cdac-08ab-4121-8604-b1bef825b281.png" />][Unity]
 [<img align="left" alt="Java" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][Git]
-[<img align="left" alt="Git" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][Java]
-[<img align="left" alt="Php" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][Php]
+[<img align="left" alt="Git" width="48px" src="https://user-images.githubusercontent.com/63661281/131055318-c86d52fc-ab47-4e56-8a62-3c29cac9c3a2.png" />][Java]
+[<img align="left" alt="Php" width="48px" src="https://user-images.githubusercontent.com/63661281/131055364-8c1a47d4-5f0b-4828-852d-8f02aed789cf.png" />][Php]
 [<img align="left" alt="MongoDB" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][MongoDB]
 [<img align="left" alt="MySQL" width="48px" src="https://user-images.githubusercontent.com/63661281/131054509-426b53bf-b179-43e3-9c51-62b7813fce16.png" />][MySQL]
 
